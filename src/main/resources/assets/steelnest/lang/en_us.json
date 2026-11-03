@@ -1,0 +1,9 @@
+{
+  "itemGroup.steelnest": "Steel Nest",
+  "item.steelnest.steel_ingot": "Steel Ingot",
+
+  "steelnest.configuration.title": "Steel Nest Configs",
+  "steelnest.configuration.section.steelnest.common.toml": "Steel Nest Configs",
+  "steelnest.configuration.section.steelnest.common.toml.title": "Steel Nest Configs",
+  "steelnest.configuration.debugLogging": "Debug Logging"
+}
